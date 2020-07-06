@@ -434,7 +434,7 @@ ol,ul{
         font-size: 1em;
     }
     .project-description{
-        font-size: .8em;
+        font-size: 1em;
     }
     .event{
         width: auto;
@@ -449,7 +449,7 @@ ol,ul{
         font-size: 1.5em;
     }
     .project-details{
-        font-size: 12px;
+        font-size: 14px;
     }
     .event-detail{
         margin: -2em .5em .5em .5em;
